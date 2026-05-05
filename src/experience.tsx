@@ -19,6 +19,11 @@ export const Experience = () => {
     // if (group.current) {
     //   group.current.rotation.y += delta;
     // }
+    // make a circle movement with the camera
+    // const angle = state.clock.elapsedTime;
+    // state.camera.position.x = Math.sin(angle) * 3;
+    // state.camera.position.z = Math.cos(angle) * 3;
+    // state.camera.lookAt(0, 0, 0);
   });
 
   return (
